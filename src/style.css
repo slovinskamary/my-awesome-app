@@ -1,0 +1,113 @@
+body {
+  font-family: sans-serif;
+
+  display: block;
+
+  color: #012c70;
+}
+.weather-app {
+  background-color: #aac6e4;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 660px;
+}
+
+.card {
+  padding: 0px;
+  border: none;
+  text-align: center;
+  background-color: #aac6e4;
+}
+.search-form {
+  background-color: #aac6e4;
+  margin-bottom: 10px;
+}
+
+.your-city {
+  text-transform: uppercase;
+
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 48px;
+  text-align: left;
+  color: #57027e;
+  margin: 0;
+}
+.country {
+  margin-left: 93px;
+  text-transform: uppercase;
+  font-family: roboto;
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 20px;
+
+  color: #57027e;
+  text-align: right;
+}
+.aditional {
+  margin-left: 20px;
+}
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+li {
+  font-size: 16px;
+  line-height: 1;
+  font-family: roboto;
+  font-weight: 100;
+  list-style: none;
+}
+.temperature {
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.sun-icon,
+.sun-icon2 {
+  color: #ffd200;
+}
+.sun-icon {
+  font-size: 70px;
+  margin-left: 5px;
+}
+
+.next_weather {
+  text-align: center;
+  border: 1px solid #57027e;
+  width: 80%;
+
+  padding: 10px;
+  font-size: 20px;
+  margin: 15px auto 10px;
+  border-radius: 14px;
+}
+.nextday-title {
+  font-size: 15px;
+  font-weight: 400;
+}
+.card-text {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0;
+}
+.cloud-icon,
+.sun-rain-icon,
+.cloud-sun-icon,
+.sun-icon2 {
+  font-size: 35px;
+}
+.creator {
+  font-size: 14px;
+
+  text-align: center;
+
+  line-height: 1;
+}
+.degree {
+  position: relative;
+  top: -32px;
+}
