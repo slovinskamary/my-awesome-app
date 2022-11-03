@@ -111,3 +111,6 @@ li {
   position: relative;
   top: -32px;
 }
+a.gitHub {
+  text-decoration: none;
+}
